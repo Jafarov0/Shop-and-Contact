@@ -1099,12 +1099,13 @@ iframe{
     .box>h2{
         font-size: 13px;
     }
+    
     footer{
         height: 700px;
     }
     .fut{
-        width: 200px;
-        height: 260px;
+        width: 170px;
+        height: 170px;
     }
 
     .contact{
@@ -1113,5 +1114,9 @@ iframe{
     }
     .con-2{
         width: 100%;
+    }
+    .qq,.ww{
+        width: 60px;
+        height: 60px;
     }
 }
