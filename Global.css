@@ -452,7 +452,8 @@ button:hover {
     justify-content: center;
     align-items: center;
     justify-content: space-around;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
 }
 
 .box>.new{
@@ -476,6 +477,7 @@ button:hover {
     background-size: cover;
     background-position: center;
     cursor: pointer;
+    transition: transform 0.5s ease;
 }
 .img12{
     width: 100%;
@@ -484,9 +486,10 @@ button:hover {
     background-size: cover;
     background-position: center;
     cursor: pointer;
+    transition: transform 0.5s ease;
 }
 .img12:hover{
-    background-size: 105% 120%;
+    transform: scale(1.05);
 }
 .img13{
     width: 100%;
@@ -495,9 +498,10 @@ button:hover {
     background-size: cover;
     background-position: center;
     cursor: pointer;
+    transition: transform 0.5s ease;
 }
 .img13:hover{
-    background-size: 105% 120%;
+    transform: scale(1.05);
 }
 .img14{
     width: 100%;
@@ -506,9 +510,10 @@ button:hover {
     background-size: cover;
     background-position: center;
     cursor: pointer;
+    transition: transform 0.5s ease;
 }
 .img14:hover{
-    background-size: 105% 120%;
+    transform: scale(1.05);
 }
 .img15{
     width: 100%;
@@ -517,9 +522,10 @@ button:hover {
     background-size: cover;
     background-position: center;
     cursor: pointer;
+    transition: transform 0.5s ease;
 }
 .img15:hover{
-    background-size: 105% 120%;
+    transform: scale(1.05);
 }
 .img16{
     width: 100%;
@@ -528,9 +534,10 @@ button:hover {
     background-size: cover;
     background-position: center;
     cursor: pointer;
+    transition: transform 0.5s ease;
 }
 .img16:hover{
-    background-size: 105% 120%;
+    transform: scale(1.05);
 }
 .img17{
     width: 100%;
@@ -539,9 +546,10 @@ button:hover {
     background-size: cover;
     background-position: center;
     cursor: pointer;
+    transition: transform 0.5s ease;
 }
 .img17:hover{
-    background-size: 105% 120%;
+    transform: scale(1.05);
 }
 .img18{
     width: 100%;
@@ -550,12 +558,13 @@ button:hover {
     background-size: cover;
     background-position: center;
     cursor: pointer;
+    transition: transform 0.5s ease;
 }
 .img18:hover{
-    background-size: 105% 120%;
+    transform: scale(1.05);
 }
 .img11:hover{
-    background-size: 105% 120%;
+    transform: scale(1.05);
 }
 
 .next{
