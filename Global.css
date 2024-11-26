@@ -25,7 +25,7 @@ a{
 .head-img{
     width: 260px;
     height: 71px;
-    background-image: url(./logo1.svg);
+    background-image: url(./img/logo1.svg);
     background-position: center;
     background-size: cover;
     cursor: pointer;
@@ -86,7 +86,7 @@ nav>ul>li>a:hover{
 .shopContainer{
     width: 100%;
     height: 400px;
-    background-image: url(./sekil1.avif);
+    background-image: url(./img/sekil1.avif);
     background-position: center;
     background-size: cover;
 }
@@ -339,7 +339,7 @@ button:hover {
 .img01{
     width: 90px;
     height: 90px;
-    background-image: url(./img01.jpg);
+    background-image: url(./img/img01.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -348,7 +348,7 @@ button:hover {
 .img02{
     width: 90px;
     height: 90px;
-    background-image: url(./img02.jpg);
+    background-image: url(./img/img02.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -357,7 +357,7 @@ button:hover {
 .img03{
     width: 90px;
     height: 90px;
-    background-image: url(./img03.jpg);
+    background-image: url(./img/img03.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -393,7 +393,7 @@ button:hover {
 .forestHoney{
     width: 350px;
     height: 500px;
-    background-image: url(./img04.png);
+    background-image: url(./img/img04.png);
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -473,7 +473,7 @@ button:hover {
 .img11{
     width: 100%;
     height: 350px;
-    background-image: url(./img05.jpg);
+    background-image: url(./img/img05.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -482,7 +482,7 @@ button:hover {
 .img12{
     width: 100%;
     height: 350px;
-    background-image: url(./img06.jpg);
+    background-image: url(./img/img06.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -494,7 +494,7 @@ button:hover {
 .img13{
     width: 100%;
     height: 350px;
-    background-image: url(./img07.jpg);
+    background-image: url(./img/img07.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -506,7 +506,7 @@ button:hover {
 .img14{
     width: 100%;
     height: 350px;
-    background-image: url(./img08.jpg);
+    background-image: url(./img/img08.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -518,7 +518,7 @@ button:hover {
 .img15{
     width: 100%;
     height: 350px;
-    background-image: url(./img09.jpg);
+    background-image: url(./img/img09.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -530,7 +530,7 @@ button:hover {
 .img16{
     width: 100%;
     height: 350px;
-    background-image: url(./img10.jpg);
+    background-image: url(./img/img10.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -542,7 +542,7 @@ button:hover {
 .img17{
     width: 100%;
     height: 350px;
-    background-image: url(./img11.jpg);
+    background-image: url(./img/img11.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -554,7 +554,7 @@ button:hover {
 .img18{
     width: 100%;
     height: 350px;
-    background-image: url(./img12.jpg);
+    background-image: url(./img/img12.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -668,7 +668,7 @@ footer{
 .qq{
     width: 90px;
     height: 90px;
-    background-image: url(./img13.jpg);
+    background-image: url(./img/img13.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -677,7 +677,7 @@ footer{
 .ww{
     width: 90px;
     height: 90px;
-    background-image: url(./img14.jpg);
+    background-image: url(./img/img14.jpg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -727,7 +727,7 @@ footer{
 .bImg01{
     width: 200px;
     height: 200px;
-    background-image: url(./img05.jpg);
+    background-image: url(./img/img05.jpg);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
     background-size: cover;
     background-position: center;
@@ -736,7 +736,7 @@ footer{
 .bImg02{
     width: 200px;
     height: 200px;
-    background-image: url(./img06.jpg);
+    background-image: url(./img/img06.jpg);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
     background-size: cover;
     background-position: center;
@@ -745,7 +745,7 @@ footer{
 .bImg03{
     width: 200px;
     height: 200px;
-    background-image: url(./img07.jpg);
+    background-image: url(./img/img07.jpg);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
     background-size: cover;
     background-position: center;
@@ -754,7 +754,7 @@ footer{
 .bImg04{
     width: 200px;
     height: 200px;
-    background-image: url(./img08.jpg);
+    background-image: url(./img/img08.jpg);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
     background-size: cover;
     background-position: center;
@@ -763,7 +763,7 @@ footer{
 .bImg05{
     width: 200px;
     height: 200px;
-    background-image: url(./img09.jpg);
+    background-image: url(./img/img09.jpg);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
     background-size: cover;
     background-position: center;
@@ -772,7 +772,7 @@ footer{
 .bImg06{
     width: 200px;
     height: 200px;
-    background-image: url(./img10.jpg);
+    background-image: url(./img/img10.jpg);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
     background-size: cover;
     background-position: center;
@@ -781,7 +781,7 @@ footer{
 .bImg07{
     width: 200px;
     height: 200px;
-    background-image: url(./img11.jpg);
+    background-image: url(./img/img11.jpg);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
     background-size: cover;
     background-position: center;
@@ -790,7 +790,7 @@ footer{
 .bImg08{
     width: 200px;
     height: 200px;
-    background-image: url(./img12.jpg);
+    background-image: url(./img/img12.jpg);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
     background-size: cover;
     background-position: center;
