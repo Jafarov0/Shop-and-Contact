@@ -1119,4 +1119,45 @@ iframe{
         width: 60px;
         height: 60px;
     }
+    
+    .basket{
+        
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .bImg01{
+        width: 100px;
+        height: 100px;
+    }
+    .bImg02{
+        width: 100px;
+        height: 100px;
+    }
+    .bImg03{
+        width: 100px;
+        height: 100px;
+    }
+    .bImg04{
+        width: 100px;
+        height: 100px;
+    }
+    .bImg05{
+        width: 100px;
+        height: 100px;
+    }
+    .bImg06{
+        width: 100px;
+        height: 100px;
+    }
+    .bImg07{
+        width: 100px;
+        height: 100px;
+    }
+    .bImg08{
+        width: 100px;
+        height: 100px;
+    }
 }
